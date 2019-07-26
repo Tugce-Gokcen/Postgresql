@@ -1,0 +1,1 @@
+insert into "Member"("firstName") select "name" from "memberdata";
